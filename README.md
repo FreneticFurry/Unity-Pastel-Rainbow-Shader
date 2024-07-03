@@ -1,2 +1,3 @@
 # Unity-Pastel-Rainbow-Shader
-funky shader
+
+a shader requested by: Zerithax
